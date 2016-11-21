@@ -27,4 +27,4 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
 
-apply from: 'https://raw.githubusercontent.com/walfud/PutToMaven/v2.2.0/jcenter.gradle'
+apply from: 'https://raw.githubusercontent.com/walfud/PutToMaven/v2.2.1/jcenter.gradle'
